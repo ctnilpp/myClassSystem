@@ -1,0 +1,9 @@
+open=true;
+name=计算机组成原理;
+week=7;
+day=4;
+section=4;
+time=2;
+password=53332;
+id=6;
+end=1542030232;

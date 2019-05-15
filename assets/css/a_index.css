@@ -1,0 +1,131 @@
+body
+{
+    color: #5a5a5a;
+}
+a
+{
+    text-decoration: none!important;
+}
+a:hover
+{
+    text-decoration: none!important;
+}
+ul{
+    padding-left: 10px;
+    margin-bottom: 0px;
+}
+li
+{
+    list-style: none;
+}
+.nav-white a{
+    display: block;
+    color: #fff!important;
+}
+.nav-white a:hover,.nav-white a:focus{
+    color: #f6f6f6;
+    background-color: #565397!important;
+}
+.navbar-blue
+{
+    background-color: #605ca8!important;
+}
+.navbar-brand
+{
+    color: #fff!important;
+    font-size: 24px;
+    margin-left: 5px!important;
+}
+.sidebar
+{
+    padding-top: 60px;
+    padding-bottom: 50px;
+    background-color: #f9fafc;
+    overflow-y :auto;
+}
+.list span
+{
+    font-size: 14px;
+
+    display: block;
+
+    padding: 12px 5px 12px 15px;
+
+    color: #666;
+}
+.list span:hover
+{
+    background-color: #f4f4f5;
+}
+.listgroup
+{
+    background-color: #f4f4f5;
+}
+.listgroup a
+{
+    display: block;
+    color: #777;
+    border-left-color: #3c8dbc;
+}
+.listgroup a:hover
+{
+    color: #000;
+}
+.listgroup li
+{
+    padding: 7px 7px 7px;
+}
+.main
+{
+    padding-top: 60px;
+    background-color: #ecf0f5;
+}
+.panel-body {
+    background-color: #ecf0f5;
+    font-size: 12px;
+}
+.tabs-panels {
+    border-width: 0;
+}
+.tabs-header {
+    border-width: 0px;
+    background-color: #ecf0f5;
+}
+.tabs-title {
+    font-size: 16px;
+    font-weight: 300;
+}
+.tabs li {
+    float: left;
+    display: inline-block;
+    margin: 0 4px -1px 0;
+    padding: 0;
+    position: relative;
+    border: 0;
+}
+.tabs li .tabs-inner {
+    padding: 5px 15px!important;
+    background: #EEA9A9!important;
+    height: 35px!important;
+    color: #fff!important;
+    /*border-radius: 0!important;*/
+}
+.tabs{
+    height: 35px!important;
+}
+.tabs li.tabs-selected a.tabs-inner{
+    background: #e5007f!important;
+    color: #fff!important;
+}
+.tabs-header, .tabs-scroller-left, .tabs-scroller-right, .tabs-tool, .tabs-panels, .tabs li a.tabs-inner, .tabs li.tabs-selected a.tabs-inner, .tabs-header-bottom .tabs li.tabs-selected a.tabs-inner, .tabs-header-left .tabs li.tabs-selected a.tabs-inner, .tabs-header-right .tabs li.tabs-selected a.tabs-inner {
+    border-color: #EEA9A9;
+}
+.tabs{
+    border-color: #d7d7d7;
+}
+.tabs-p-tool a:hover, .tabs li a:hover.tabs-close, .tabs-scroller-over {
+    background-color: #EEA9A9;
+}
+.tabs-p-tool a, .tabs li a.tabs-close, .tabs-scroller-over {
+
+}

@@ -1,0 +1,48 @@
+[21-Oct-2018 07:55:57 UTC] PHP Warning:  include(../views/layouts/application.html.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/group-2/views/static/login.html.php on line 1
+[21-Oct-2018 07:55:57 UTC] PHP Stack trace:
+[21-Oct-2018 07:55:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/login.html.php:0
+[21-Oct-2018 07:55:57 UTC] PHP Warning:  include(): Failed opening '../views/layouts/application.html.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/group-2/views/static/login.html.php on line 1
+[21-Oct-2018 07:55:57 UTC] PHP Stack trace:
+[21-Oct-2018 07:55:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/login.html.php:0
+[21-Oct-2018 07:55:57 UTC] PHP Warning:  include(../views/layouts/footer.html.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/group-2/views/static/login.html.php on line 39
+[21-Oct-2018 07:55:57 UTC] PHP Stack trace:
+[21-Oct-2018 07:55:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/login.html.php:0
+[21-Oct-2018 07:55:57 UTC] PHP Warning:  include(): Failed opening '../views/layouts/footer.html.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/group-2/views/static/login.html.php on line 39
+[21-Oct-2018 07:55:57 UTC] PHP Stack trace:
+[21-Oct-2018 07:55:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/login.html.php:0
+[21-Oct-2018 07:56:43 UTC] PHP Warning:  include(../views/layouts/application.html.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/group-2/views/static/index2.html.php on line 1
+[21-Oct-2018 07:56:43 UTC] PHP Stack trace:
+[21-Oct-2018 07:56:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/index2.html.php:0
+[21-Oct-2018 07:56:43 UTC] PHP Warning:  include(): Failed opening '../views/layouts/application.html.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/group-2/views/static/index2.html.php on line 1
+[21-Oct-2018 07:56:43 UTC] PHP Stack trace:
+[21-Oct-2018 07:56:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/index2.html.php:0
+[21-Oct-2018 07:56:43 UTC] PHP Warning:  include(../views/layouts/footer.html.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/group-2/views/static/index2.html.php on line 130
+[21-Oct-2018 07:56:43 UTC] PHP Stack trace:
+[21-Oct-2018 07:56:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/index2.html.php:0
+[21-Oct-2018 07:56:43 UTC] PHP Warning:  include(): Failed opening '../views/layouts/footer.html.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/group-2/views/static/index2.html.php on line 130
+[21-Oct-2018 07:56:43 UTC] PHP Stack trace:
+[21-Oct-2018 07:56:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/index2.html.php:0
+[21-Oct-2018 07:57:35 UTC] PHP Warning:  include(../views/layouts/application.html.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/group-2/views/static/login.html.php on line 1
+[21-Oct-2018 07:57:35 UTC] PHP Stack trace:
+[21-Oct-2018 07:57:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/login.html.php:0
+[21-Oct-2018 07:57:35 UTC] PHP Warning:  include(): Failed opening '../views/layouts/application.html.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/group-2/views/static/login.html.php on line 1
+[21-Oct-2018 07:57:35 UTC] PHP Stack trace:
+[21-Oct-2018 07:57:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/login.html.php:0
+[21-Oct-2018 07:57:35 UTC] PHP Warning:  include(../views/layouts/footer.html.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/group-2/views/static/login.html.php on line 39
+[21-Oct-2018 07:57:35 UTC] PHP Stack trace:
+[21-Oct-2018 07:57:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/login.html.php:0
+[21-Oct-2018 07:57:35 UTC] PHP Warning:  include(): Failed opening '../views/layouts/footer.html.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/group-2/views/static/login.html.php on line 39
+[21-Oct-2018 07:57:35 UTC] PHP Stack trace:
+[21-Oct-2018 07:57:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/login.html.php:0
+[21-Oct-2018 07:57:41 UTC] PHP Warning:  include(../views/layouts/application.html.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/group-2/views/static/login.html.php on line 1
+[21-Oct-2018 07:57:41 UTC] PHP Stack trace:
+[21-Oct-2018 07:57:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/login.html.php:0
+[21-Oct-2018 07:57:41 UTC] PHP Warning:  include(): Failed opening '../views/layouts/application.html.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/group-2/views/static/login.html.php on line 1
+[21-Oct-2018 07:57:41 UTC] PHP Stack trace:
+[21-Oct-2018 07:57:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/login.html.php:0
+[21-Oct-2018 07:57:41 UTC] PHP Warning:  include(../views/layouts/footer.html.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/group-2/views/static/login.html.php on line 39
+[21-Oct-2018 07:57:41 UTC] PHP Stack trace:
+[21-Oct-2018 07:57:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/login.html.php:0
+[21-Oct-2018 07:57:41 UTC] PHP Warning:  include(): Failed opening '../views/layouts/footer.html.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/group-2/views/static/login.html.php on line 39
+[21-Oct-2018 07:57:41 UTC] PHP Stack trace:
+[21-Oct-2018 07:57:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/group-2/views/static/login.html.php:0
